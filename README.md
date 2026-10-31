@@ -1,16 +1,21 @@
-## Hi there 👋
+# Привет! Я Иван 👋
 
-<!--
-**ivanglotov647-ux/ivanglotov647-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий Python-разработчик с техническим бэкграундом и практическим опытом в сфере логистики и спецтехники. 
 
-Here are some ideas to get you started:
+Сейчас я активно изучаю Python и автоматизацию, чтобы создавать инструменты, которые реально экономят время и решают рутинные задачи бизнеса.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой стек и навыки
+*   **Язык:** Python (базовый уровень, пишу чистый код, ООП, обработка ошибок).
+*   **Инструменты:** Git, GitHub, PyInstaller.
+*   **В работе:** Работа с файлами, создание CLI-скриптов (консольных программ).
+
+### 🚀 Мои проекты
+*   **[Truck Trip Calculator](https://github.com/ivanglotov647-ux/truck-trip-calculator)** — консольный скрипт на Python для расчета чистой прибыли с рейса грузовика с логированием результатов. *(Пишу подобные вещи из реальной боли водителей и логистов)*.
+
+### 🎯 Мои цели
+*   Найти свою первую удаленную работу (Junior / стажер / part-time) или клиентов на фрилансе.
+*   Развиваться в направлении автоматизации бизнес-процессов, парсинга и интеграций.
+*   Использовать ИИ как инструмент для ускорения разработки.
+
+### 📬 Связаться со мной
+*   Telegram: `@Kamino_Shidzuke` 
